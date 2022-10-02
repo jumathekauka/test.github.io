@@ -1,7 +1,7 @@
 {
-  "name": "wd201-lvl4",
+  "name": "Francis Juma",
   "version": "1.0.0",
-  "description": "WD201 Milestone of Level 4",
+  "description": "Level 4",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cp-Coder/WD201-Milestones.git"
+    "url": "git+https://github.com/jumathekauka/test.github.io"
   },
   "keywords": [
     "node"
   ],
-  "author": "cp-Coder",
+  "author": "jumathekauka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cp-Coder/WD201-Milestones/issues"
+    "url": "https://github.com/jumathekauka/test.github.io/issues"
   },
-  "homepage": "https://github.com/cp-Coder/WD201-Milestones#readme",
+  "homepage": "https://github.com/jumathekauka/test.github.io#readme",
   "devDependencies": {
     "eslint": "^8.22.0",
     "husky": "^8.0.1",
